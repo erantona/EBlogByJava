@@ -1,0 +1,15 @@
+body{
+
+}
+.primary-Backgroung{
+    background: #0097A7!important;
+}
+.banner-background {
+    clip-path: polygon(50% 0%, 100% 0, 100% 98%, 75% 93%, 37% 99%, 0 93%, 0 0);
+}
+.list-group-item-mine {
+  background-color: #0097A7!important;
+  border-top: 1px solid #0091b5;
+  border-left-color: #fff;
+  border-right-color: #fff;
+}
